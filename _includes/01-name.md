@@ -1,1 +1,4 @@
-Replace this with your name, and include a header.
+<!-- My portfolio ABOUT -->
+# Samar Fatima Jaffi
+### BSSE Final year Student | FYP Leader
+**Motivator** and **Influencer** as well.
