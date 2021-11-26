@@ -1,4 +1,4 @@
 <!-- My portfolio ABOUT -->
-# Samar Fatima Jaffi
+# Samar Fatima Jaffri
 ### BSSE Final year Student | FYP Leader
-**Motivator** and **Influencer** as well.
+A great **Learner**, **Motivator** and **Influencer**.
