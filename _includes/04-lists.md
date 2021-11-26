@@ -1,0 +1,15 @@
+<!-- List of my favorite things. -->
+- Learning
+- Reading (anything)
+  - Articles
+  - Newsletters
+  - Books
+- Coding (favourite one)
+  - Full stack
+  - Application development
+  - Artificial Intelligence
+- Designing
+- Debugging
+- Problem solving
+- Helping others
+- Techology talks
